@@ -45,7 +45,7 @@ PrintPara(HyperParam)
 
 #definition of OPtions(only one set)
 #Option = dict(disp=1,save=0,thld=1.0E-14,checkresultNum=10000)
-Option = dict(disp=0,save=1,thld=1.0E-14,checkresultNum=10000)
+Option = dict(disp=0,save=0,thld=1.0E-14,checkresultNum=10000)
 print('\n----- Options -----')
 PrintPara(Option)
 
