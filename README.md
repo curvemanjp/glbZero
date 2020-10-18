@@ -10,3 +10,4 @@ Here we will describe a python program to get global zero points of a contineous
  
  Continuous functions are not always differentiable, so we cannot enjoy the benefits of differentiation.
  
+ 
