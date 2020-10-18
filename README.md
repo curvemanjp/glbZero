@@ -1,5 +1,5 @@
 # glbZero
-Here we will describe that python program to get global zero points of a contineous function.
+Here we will describe a python program to get global zero points of a contineous function.
 
 ## Where does a function have zero value?
  We want to know all zero points if possible.
